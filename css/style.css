@@ -1,0 +1,36 @@
+.rightnavbar {
+    justify-content: flex-end;
+}
+.fzcolorttu {
+    text-transform: uppercase;
+    font-size: 30px;
+    font-family: 'Quintessential';
+}
+.container .collapse .spacingword .marcoltttu {
+    margin: 0 50px;
+    text-transform: uppercase;
+}
+.marcoltttu:last-child {
+    margin-right: 0;
+    text-transform: uppercase;
+}
+.introimage {
+    width: 100%;
+}
+.with100perc {
+    width: 100%;
+    object-fit: cover;
+    height: 600px;
+}
+h5 {
+    color: gray;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+h1 {
+    color: rgb(65, 65, 65);
+}
+p {
+    color: #7e7e7e;
+    font-size: 18px;
+}
